@@ -20,6 +20,7 @@
     "react-router": "^7.6.3",
     "stream-chat": "^9.10.0",
     "stream-chat-react": "^13.2.1",
+    "syncmeet": "file:..",
     "zustand": "^5.0.6"
   },
   "devDependencies": {
